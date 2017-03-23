@@ -1,2 +1,2 @@
 # TestWebView
-Test WebView App for EBooks
+Test WebView App
